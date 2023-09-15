@@ -4,11 +4,12 @@ import SharedLayout from './SharedLayout/SharedLayout';
 
 import { useDispatch } from 'react-redux';
 
-import { fetchContacts } from 'redux/contacts/operations';
+
 import { lazy, useEffect } from 'react';
 import { useAuth } from 'hooks';
 import { RestrictedRoute } from './RestrictedRoute';
 import { PrivateRoute } from './PrivateRoute';
+import { refreshUser } from 'redux/auth/operations';
 
 
 const HomePage = lazy(() => import("../pages/Home/Home"));
@@ -25,7 +26,7 @@ export const App = () => {
  
 
   useEffect(() => {
-    dispatch(fetchContacts());
+    dispatch(refreshUser());
   }, [dispatch]);
 
   return  isRefreshing ? (
