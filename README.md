@@ -1,4 +1,4 @@
-# phone Book
+# Phone Book
 ![](https://github.com/fehmituran/goit-react-hw-08-phonebook/blob/main/src/img/phonebook.gif)
 
 
