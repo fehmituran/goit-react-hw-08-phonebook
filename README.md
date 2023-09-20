@@ -1,5 +1,8 @@
 # phone Book
-![](https://github.com/fehmituran/goit-js-hw-11/blob/main/src/img/photogallery.gif)
+![](https://github.com/fehmituran/goit-react-hw-08-phonebook/blob/main/src/img/phonebook.gif)
+
+
+![](https://github.com/fehmituran/goit-react-hw-08-phonebook/blob/main/src/img/phonebook.PNG)
 
 
 Phone Book was created using "https://connections-api.herokuapp.com/" api service.
