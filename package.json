@@ -23,7 +23,7 @@
     "react-router-dom": "^6.15.0",
     "react-scripts": "5.0.1",
     "redux-persist": "^6.0.0",
-    "sass": "^1.66.1",
+    "sass": "^1.67.0",
     "styled-components": "^6.0.7",
     "web-vitals": "^2.1.3"
   },

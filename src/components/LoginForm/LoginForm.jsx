@@ -18,8 +18,6 @@ const LoginForm = () => {
         form.reset();
     }
 
-
-
   return (
     <form onSubmit={handleSubmit}>
       <input type="email" placeholder="Email" name='email' />
