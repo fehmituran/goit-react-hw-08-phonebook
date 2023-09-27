@@ -10,10 +10,6 @@ The Phone Book app allows users to manage their contacts efficiently. Users can 
 
 Explore the app: [Phone Book](https://fehmituran.github.io/goit-react-hw-08-phonebook/)
 
-## Links
-
-- [Phone Book](https://fehmituran.github.io/goit-react-hw-08-phonebook)
-
 ## Installation
 
 To run this project locally, follow these steps:
